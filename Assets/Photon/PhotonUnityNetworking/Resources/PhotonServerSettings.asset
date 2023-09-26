@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: ca4de028-095d-4308-b657-f25552d5c9c8
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - OnClickESC
+  - StartBtnClick
+  - OnClickChooseMode
+  - ViewChooseMode
+  - ViewESC
+  - ViewStartBtn
+  - Action
+  - UpdateScore
+  - CheckStateRPC
+  - StartCt
+  - Shoot
+  - SpeedCtrl
+  - Map_Five
+  - Map_Four
+  - Map_One
+  - Map_Six
+  - Map_Three
+  - Map_Two
+  - PlayRandomMode
+  - EndGameRpc
+  - Move
+  - RansdomParameter
+  - Rotate
+  - Jump
+  - StopToOb
+  - RandomColor
+  - BatckCells
+  - MakeMaze
+  - CoinSetting
+  - PushZoneSetting
+  - PushZoneMove
+  - MoveRPC
+  - ConnectCells
+  - GetNeighborCells
+  - CoinTxtRPC
+  - FogSet
+  - ShowWalls
+  - FireRPC
+  - MakeAnswer
+  - MakeCube
+  - Res
+  - FireCount
+  - Clear
+  - MakeMap
+  - Setting
+  - NextRound
+  - ChangeColor
+  - Change
+  - GoldRing
+  - Ring
+  - CountRPC
+  - ActiveCtrl
+  - AddList
+  - CubeColor
+  - MapSet
+  - AddCube
+  - ClearList
+  - AddGold
+  - AddRing
+  - RemoveGold
+  - RemoveRing
+  - PosZero
+  - DestroyRing
+  - Destroy
+  - Make
+  - ReMake
+  - MakeGround
+  - CubeCtrl
+  - HingeCtrl
+  - MakeDoor
+  - MakeSave
+  - Set
+  - AddDoor
+  - EndGround
+  - Next
+  - EndRround
+  - SetGround
+  - Origin
+  - AddBaby
+  - AddMom
+  - DestroyRPC
+  - SpawnRPC
+  - AttackRPC
+  - StateRPC
+  - CheckRPC
+  - VeloZero
+  - Ready
+  - Check
+  - Scale
+  - EndRPC
+  - NextPos
+  - AnswerSet
+  - BabyParent
+  - MomParent
+  - MinUpdate
+  - PlusUpdate
+  - CellSet
+  - MeshCtrl
+  - OriginColor
+  - AddScore
+  - MinRPC
+  - PlusRPC
+  - UpdateTimeText
+  - CountDown
+  - GameStart
+  - StartTxt
+  - GameRes
+  - AttPossible
+  - DieCheck
+  - OriSpeed
+  - ZeroSpeed
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 1

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GROUND
+  - PLAYER
+  - DEAD
+  - WARNING
+  - SAVEPOINT
+  - STEP
+  - ENDGAME
+  - REMOVEFOG
+  - MAKEFOG
+  - SAME
+  - DIFFERENT
+  - DESTROY
+  - RING
+  - GOLDRING
+  - JUMPZONE
+  - BABYCOIN
+  - MOMCOIN
+  - WALL
+  - BULLET
+  - MAKEMAP
+  - DOOR
+  - Bullet
+  - CELL
+  - MAKEMAZE
+  - ZERO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - OBSTACLE
+  - 
+  - PLAYER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
